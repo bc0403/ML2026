@@ -1,4 +1,4 @@
-This course provides an introduction to machine learning and its applications in healthcare. Topics include: statistical essential, supervised learning; unsupervised learning, LLM, model deployment in mobile and smart hardware.
+This course provides an introduction to machine learning and its **applications in healthcare**. Topics include: statistical essential, supervised learning; unsupervised learning, LLM, model deployment in mobile and smart hardware.
 
 ## References
 - James, Gareth, et al. An introduction to statistical learning. 2023. (for classical machine learning)
